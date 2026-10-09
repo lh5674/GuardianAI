@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+events.jsonl
+*.mp4
+*.avi
+*.mov
+*.pt
+*.engine
+runs/
+
