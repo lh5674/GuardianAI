@@ -1,15 +1,16 @@
 # GuardianAI
 
-GuardianAI 是面向养老场景的计算机视觉跌倒检测 Demo 项目。本仓库保存技术方案、Demo 采购清单和研发任务的可版本管理副本；在线协作文件保存在受限 Google Drive 文件夹。
+GuardianAI 是面向养老场景的计算机视觉跌倒检测 Demo 项目。本私有仓库保存技术方案、Demo 采购预算和研发任务的可版本管理副本；飞书协作空间正在接入。
 
-## 协作入口
+## 项目资料
 
-- [Google Drive 团队协作空间](https://drive.google.com/drive/folders/1rgE1cHe3vlAryPAzbp5tH50iRO_qxkWD)
-- 技术架构：`docs/architecture.md`
-- Demo 硬件采购：`planning/hardware-procurement.csv`
-- 研发任务：`planning/rd-board.csv`
+- [技术架构书](docs/architecture.md)
+- [Demo 硬件采购预算（人民币）](planning/hardware-procurement.csv)
+- [研发任务看板](planning/rd-board.csv)
 
-Drive 文件夹及本仓库均保持现有受限权限。需由项目所有者指定团队成员邮箱后再授予访问权。
+采购预算以 2026 年 10 月 9 日人民币兑美元中间价 1 USD = 6.7330 CNY 换算。除 NVIDIA 开发套件官方参考价外，其他单价是内部规划估算，非供应商报价。飞书在线表格导入后应以其中的可调汇率和预算公式为准。
+
+飞书协作链接将在完成导入和权限核对后补入。当前仓库保持私有；团队成员名单和权限待项目所有者确认。
 
 ## Demo 目标
 
